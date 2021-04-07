@@ -1,0 +1,32 @@
+.player-details{
+    display: flex;
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    
+}
+.details{
+    margin: 40px;
+    box-shadow: 5px 5px white;
+    
+}
+.details h2{
+    font-size: medium;
+    color: gray;
+    margin-left: 2px;
+}
+.details p{
+    margin-left: 2px;
+    font-size: small;
+    color : gray;
+
+
+
+}
+.button{
+    background-color: steelblue;
+    border-radius: 4px;
+    padding: 5px;
+}
